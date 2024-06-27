@@ -2310,5 +2310,35 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!-- Amal  -->
+        <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/anamallay">
+                <img src="https://avatars.githubusercontent.com/u/93478850?s=400&u=7dab1b6277b80f599d2a3c28f0cb6fabf2c0b400&v=4" width="50">
+                <br>
+                <h2>Amal</h2>
+            </a>
+            <br>
+            <table>
+                <tr>
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/amalkhardli/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/anamallay">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
 
 </table>
